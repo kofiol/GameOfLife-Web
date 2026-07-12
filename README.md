@@ -1,2 +1,2 @@
 ## **Web implementation of Conway's Game of Life built using JS**
-**Accessible via** [GitHub Pages](https://kofiol.github.io/GameOfLife/)
+**Accessible via** [GitHub Pages](https://re-marked.github.io/GameOfLife/)
